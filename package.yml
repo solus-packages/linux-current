@@ -1,8 +1,8 @@
 name       : linux-current
-version    : 6.4.15
-release    : 254
+version    : 6.5.2
+release    : 255
 source     :
-    - https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.4.15.tar.xz : 23f9e7c8d2a583e432ed203cab88fbd7ecc6920015cb5d38d5b7585acee814de
+    - https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.5.2.tar.xz : 2027e14057d568ad3ddc100dadf4c8853a49b031270478a61d88f6011572650f
 license    : GPL-2.0-only
 component  :
     - kernel.image
